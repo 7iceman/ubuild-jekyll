@@ -20,9 +20,8 @@ page_sections:
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: Hello! I'm <br><strong>Ajit</strong>
+  content: 'I''m a content architect from Bangalore, India. '
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
