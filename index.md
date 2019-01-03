@@ -21,7 +21,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: Hello! I'm <br><strong>Ajit</strong>
-  content: 'I''m a content architect from Bangalore, India. '
+  content: 'I''m a content architect from <strong>Bangalore</strong>, <strong>India</strong>. '
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
